@@ -1,0 +1,19 @@
+.dx-calendar-navigator .dx-calendar-caption-button.dx-button .dx-button-content {
+    color: #2ca01c !important;
+}
+.dx-calendar-cell.dx-calendar-selected-date, .dx-calendar-cell.dx-calendar-selected-date.dx-calendar-today {
+    box-shadow: inset 0 0 0 1000px #2ca01c !important;
+}
+.dx-calendar-cell.dx-calendar-selected-date.dx-calendar-contoured-date, .dx-calendar-cell.dx-calendar-selected-date.dx-calendar-today.dx-calendar-contoured-date {
+    -webkit-box-shadow: inset 0 0 0 1px #bebebe, inset 0 0 0 1000px #2ca01c !important;
+    box-shadow: inset 0 0 0 1px #bebebe, inset 0 0 0 1000px #2ca01c !important;
+}
+.dx-calendar-navigator-next-month.dx-button .dx-icon, .dx-calendar-navigator-next-view.dx-button .dx-icon {
+    color: #2ca01c !important;
+}
+.dx-datebox-calendar .dx-dropdowneditor-icon {
+    color: #babec5 !important;
+}
+.dx-calendar-navigator-previous-month.dx-button .dx-icon, .dx-calendar-navigator-previous-view.dx-button .dx-icon {
+    color: #2ca01c !important;
+}

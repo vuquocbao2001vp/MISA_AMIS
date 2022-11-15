@@ -1,0 +1,15 @@
+E:\MisaProject\MISA_AMIS\MISA_AMIS_BE\MISA.AMIS.Infrastructure\bin\Debug\net6.0\MISA.AMIS.Infrastructure.deps.json
+E:\MisaProject\MISA_AMIS\MISA_AMIS_BE\MISA.AMIS.Infrastructure\bin\Debug\net6.0\MISA.AMIS.Infrastructure.dll
+E:\MisaProject\MISA_AMIS\MISA_AMIS_BE\MISA.AMIS.Infrastructure\bin\Debug\net6.0\MISA.AMIS.Infrastructure.pdb
+E:\MisaProject\MISA_AMIS\MISA_AMIS_BE\MISA.AMIS.Infrastructure\bin\Debug\net6.0\MISA.AMIS.Core.dll
+E:\MisaProject\MISA_AMIS\MISA_AMIS_BE\MISA.AMIS.Infrastructure\bin\Debug\net6.0\MISA.AMIS.Core.pdb
+E:\MisaProject\MISA_AMIS\MISA_AMIS_BE\MISA.AMIS.Infrastructure\obj\Debug\net6.0\MISA.AMIS.Infrastructure.csproj.AssemblyReference.cache
+E:\MisaProject\MISA_AMIS\MISA_AMIS_BE\MISA.AMIS.Infrastructure\obj\Debug\net6.0\MISA.AMIS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\MisaProject\MISA_AMIS\MISA_AMIS_BE\MISA.AMIS.Infrastructure\obj\Debug\net6.0\MISA.AMIS.Infrastructure.AssemblyInfoInputs.cache
+E:\MisaProject\MISA_AMIS\MISA_AMIS_BE\MISA.AMIS.Infrastructure\obj\Debug\net6.0\MISA.AMIS.Infrastructure.AssemblyInfo.cs
+E:\MisaProject\MISA_AMIS\MISA_AMIS_BE\MISA.AMIS.Infrastructure\obj\Debug\net6.0\MISA.AMIS.Infrastructure.csproj.CoreCompileInputs.cache
+E:\MisaProject\MISA_AMIS\MISA_AMIS_BE\MISA.AMIS.Infrastructure\obj\Debug\net6.0\MISA.AMIS.Infrastructure.csproj.CopyComplete
+E:\MisaProject\MISA_AMIS\MISA_AMIS_BE\MISA.AMIS.Infrastructure\obj\Debug\net6.0\MISA.AMIS.Infrastructure.dll
+E:\MisaProject\MISA_AMIS\MISA_AMIS_BE\MISA.AMIS.Infrastructure\obj\Debug\net6.0\refint\MISA.AMIS.Infrastructure.dll
+E:\MisaProject\MISA_AMIS\MISA_AMIS_BE\MISA.AMIS.Infrastructure\obj\Debug\net6.0\MISA.AMIS.Infrastructure.pdb
+E:\MisaProject\MISA_AMIS\MISA_AMIS_BE\MISA.AMIS.Infrastructure\obj\Debug\net6.0\ref\MISA.AMIS.Infrastructure.dll
